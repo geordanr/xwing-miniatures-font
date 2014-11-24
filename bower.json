@@ -8,6 +8,7 @@
   "main": [
       "dist/xwing-miniatures.css",
       "dist/xwing-miniatures.ttf"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
