@@ -1,6 +1,6 @@
 @font-face {
   font-family: XWing;
-  src: url("xwing-miniatures.ttf"); }
+  src: url('xwing-miniatures.ttf'); }
 
 i.xwing-miniatures-font {
   font-family: XWing;
