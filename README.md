@@ -15,6 +15,7 @@ Usage
 -----
 
     <span>On a <i class="xwing-miniatures-font xwing-miniatures-font-hit"></i> or <i class="xwing-miniatures-font xwing-miniatures-font-crit"></i>, go <strong>kaboom!</strong></span>
+    <i class="xwing-miniatures-ship xwing-miniatures-ship-tiephantom"></i>
 
 Development
 -----------
