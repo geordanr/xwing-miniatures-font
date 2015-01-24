@@ -143,6 +143,9 @@ i.xwing-miniatures-font-hull:before {
 i.xwing-miniatures-font-shield:before {
   content: "*"; }
 
+i.xwing-miniatures-font-energy:before {
+  content: "("; }
+
 i.xwing-miniatures-font-modification:before {
   content: "m"; }
 
