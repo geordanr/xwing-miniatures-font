@@ -3,6 +3,8 @@ X-Wing Miniatures Font
 
 Vector font by [Hinny](https://github.com/Hinny) and [armoredgear7](https://github.com/armoredgear7).
 
+[List of symbols](https://geordanr.github.io/xwing-miniatures-font/)
+
 Install
 -------
 
