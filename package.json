@@ -1,10 +1,11 @@
 {
   "name": "xwing-miniatures-font",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Font for the X-Wing Miniatures game",
   "main": [
     "dist/xwing-miniatures.css",
-    "dist/xwing-miniatures.ttf"
+    "dist/xwing-miniatures.ttf",
+    "dist/xwing-miniatures-ships.ttf"
   ],
   "scripts": {
     "build": "grunt",
