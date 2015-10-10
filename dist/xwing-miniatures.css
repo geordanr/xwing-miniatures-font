@@ -1,10 +1,10 @@
 @font-face {
   font-family: XWing;
-  src: url('xwing-miniatures.ttf'); }
+  src: url("xwing-miniatures.ttf"); }
 
 @font-face {
   font-family: XWingShip;
-  src: url('xwing-miniatures-ships.ttf'); }
+  src: url("xwing-miniatures-ships.ttf"); }
 
 i.xwing-miniatures-font {
   font-family: XWing;
@@ -154,6 +154,15 @@ i.xwing-miniatures-font-slam:before {
 
 i.xwing-miniatures-font-title:before {
   content: "t"; }
+
+i.xwing-miniatures-font-trollleft:before {
+  content: "\003a"; }
+
+i.xwing-miniatures-font-trollright:before {
+  content: "\003b"; }
+
+i.xwing-miniatures-font-tech:before {
+  content: "\0058"; }
 
 i.xwing-miniatures-ship {
   font-family: XWingShip;
