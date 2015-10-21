@@ -187,6 +187,9 @@ i.xwing-miniatures-ship-tieinterceptor:before {
 i.xwing-miniatures-ship-tiepunisher:before {
   content: "N"; }
 
+i.xwing-miniatures-ship-tiefofighter:before {
+  content: "O"; }
+
 i.xwing-miniatures-ship-tiephantom:before {
   content: "P"; }
 
@@ -237,6 +240,9 @@ i.xwing-miniatures-ship-yv666:before {
 
 i.xwing-miniatures-ship-starviper:before {
   content: "v"; }
+
+i.xwing-miniatures-ship-t70xwing:before {
+  content: "w"; }
 
 i.xwing-miniatures-ship-xwing:before {
   content: "x"; }
