@@ -8,12 +8,12 @@ module.exports = (grunt) ->
         dest: 'dist/'
         ext: '.css'
 
-    jade:
+    pug:
       compile:
         files:
-          "index.html": "index.jade"
+          "index.html": "index.pug"
 
   grunt.loadNpmTasks 'grunt-sass'
-  grunt.loadNpmTasks 'grunt-contrib-jade'
+  grunt.loadNpmTasks 'grunt-contrib-pug'
 
-  grunt.registerTask 'default', [ 'sass', 'jade' ]
+  grunt.registerTask 'default', [ 'sass', 'pug' ]
