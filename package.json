@@ -1,6 +1,6 @@
 {
   "name": "xwing-miniatures-font",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Font for the X-Wing Miniatures game",
   "main": [
     "dist/xwing-miniatures.css",
@@ -22,7 +22,7 @@
     "bower": "1.7.9",
     "grunt": "1.0.1",
     "grunt-contrib-pug": "1.0.0",
-    "grunt-sass": "1.2.0",
+    "grunt-sass": "1.2.1",
     "mversion": "1.10.1"
   }
 }
