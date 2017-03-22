@@ -1,0 +1,12 @@
+@import "icons-map";
+
+// Based on http://jaydenseric.com/blog/fun-with-sass-and-font-icons
+@mixin icons-mixin( $icon ) {
+    &:before {
+      content: "#{map-get($icons-map, $icon)}";
+
+      // Include any extra rules supplied with the element
+      // Eg. to colorize an icon: @include icons-mixin( rebels ) { color: red }
+      @content;
+    }
+};
