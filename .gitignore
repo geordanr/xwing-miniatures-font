@@ -3,3 +3,4 @@ _vimrc_local.vim
 .sass-cache
 coffeelint.json
 node_modules
+.idea/
