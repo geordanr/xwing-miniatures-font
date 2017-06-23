@@ -2,7 +2,7 @@
   "name": "xwing-miniatures-font",
   "version": "1.0.21",
   "description": "Font for the X-Wing Miniatures game",
-  "main": [
+  "files": [
     "dist/xwing-miniatures.css",
     "dist/xwing-miniatures.ttf",
     "dist/xwing-miniatures-ships.ttf"
@@ -12,18 +12,45 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Geordan Rosario <geordan@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords": [
+    "starwars",
+    "xwing",
+    "x-wing",
+    "fonts",
+    "font",
+    "icon"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/geordanr/xwing-miniatures-font.git"
   },
+  "bugs": {
+    "url": "http://github.com/geordanr/xwing-miniatures-font/issues"
+  },
+  "contributors": [
+    {
+      "name": "Hinny",
+      "url": "https://github.com/Hinny"
+    },
+    {
+      "name": "armoredgear7",
+      "url": "https://github.com/armoredgear7"
+    },
+    {
+      "name": "geordanr",
+      "url": "https://github.com/geordanr"
+    },
+    {
+      "name": "s1n",
+      "url": "https://github.com/s1n"
+    }
+  ],
   "devDependencies": {
-    "bower": "1.7.9",
-    "grunt": "1.0.1",
+    "grunt": "^1.0.1",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-pug": "1.0.0",
-    "grunt-sass": "1.2.1",
-    "grunt-string-replace": "^1.3.1",
-    "mversion": "1.10.1"
+    "grunt-sass": "^2.0.0",
+    "grunt-string-replace": "^1.3.1"
   }
 }
