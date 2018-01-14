@@ -1,7 +1,7 @@
 X-Wing Miniatures Font
 ======================
 
-Vector font by [Hinny](https://github.com/Hinny), [armoredgear7](https://github.com/armoredgear7), and [ScottKarch](https://github.com/ScottKarch).
+Vector font by [Hinny](https://github.com/Hinny), [armoredgear7](https://github.com/armoredgear7), [ScottKarch](https://github.com/ScottKarch), and [FedoraMark](https://github.com/FedoraMark).
 
 [List of symbols](https://geordanr.github.io/xwing-miniatures-font/)
 

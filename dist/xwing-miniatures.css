@@ -20,6 +20,12 @@ i.xwing-miniatures-font-astromech:before {
 i.xwing-miniatures-font-attack-180:before {
   content: ">"; }
 
+i.xwing-miniatures-font-attack-bullseye:before {
+  content: "?"; }
+
+i.xwing-miniatures-font-attack-bullseye-top-separated:before {
+  content: "’"; }
+
 i.xwing-miniatures-font-attack-frontback:before {
   content: "<"; }
 
@@ -257,6 +263,9 @@ i.xwing-miniatures-font-recover:before {
 i.xwing-miniatures-font-reinforce:before {
   content: "i"; }
 
+i.xwing-miniatures-font-reload:before {
+  content: "="; }
+
 i.xwing-miniatures-font-reversebankleft:before {
   content: "J"; }
 
@@ -310,6 +319,12 @@ i.xwing-miniatures-font-tech:before {
 
 i.xwing-miniatures-font-title:before {
   content: "t"; }
+
+i.xwing-miniatures-font-tloopleft:before {
+  content: "["; }
+
+i.xwing-miniatures-font-tloopright:before {
+  content: "]"; }
 
 i.xwing-miniatures-font-token-cannotattack-outline:before {
   content: "í"; }
@@ -415,6 +430,9 @@ i.xwing-miniatures-font-turret:before {
 
 i.xwing-miniatures-font-unique:before {
   content: "u"; }
+
+i.xwing-miniatures-font-unique-outline:before {
+  content: "•"; }
 
 /*
  * Ships
