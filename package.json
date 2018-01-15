@@ -1,6 +1,6 @@
 {
   "name": "xwing-miniatures-font",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "description": "Font for the X-Wing Miniatures game",
   "files": [
     "dist/xwing-miniatures.css",
