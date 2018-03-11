@@ -5,26 +5,20 @@ module.exports = (grunt) ->
     clean: [ 'src/sass/_*-map.scss', 'index.html']
     
     'compile-handlebars':
-        # Generate icons map SCSS file
-        'icons-map':
+        # Generate map SCSS files
+        'maps':
             files: [
                 {
                     src: 'handlebars/templates/map-scss.handlebars',
-                    dest: 'src/sass/_icons-map.scss'
+                    dest: [
+                        'src/sass/_icons-map.scss', 'src/sass/_ships-map.scss'
+                    ]
                 }
             ]
-            templateData: 'src/json/icons-map.json',
-            helpers: 'handlebars/helpers/*.js'
-            
-        # Generate ships map SCSS file
-        'ships-map':
-            files: [
-                {
-                    src: 'handlebars/templates/map-scss.handlebars',
-                    dest: 'src/sass/_ships-map.scss'
-                }
+            templateData: [
+                'src/json/icons-map.json',
+                'src/json/ships-map.json'
             ]
-            templateData: 'src/json/ships-map.json',
             helpers: 'handlebars/helpers/*.js'
             
         # Generate index.html from merged json
@@ -35,8 +29,11 @@ module.exports = (grunt) ->
                     dest: 'index.html'
                 }
             ]
+            globals: [
+                'src/json/ships-map.json', 
+                'src/json/icons-map.json'
+            ]
             partials: 'handlebars/templates/index-icon-set.handlebars'
-            globals: ['src/json/ships-map.json', 'src/json/icons-map.json']
         
     sass:
       compile:
