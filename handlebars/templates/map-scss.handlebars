@@ -1,5 +1,5 @@
 {{#each this}}
-${{@key}}: (
+${{@key}}-map: (
 {{#each this}}
         {{@key}}: "{{{escape this}}}"{{#unless @last}},{{/unless}}
 {{/each}}
