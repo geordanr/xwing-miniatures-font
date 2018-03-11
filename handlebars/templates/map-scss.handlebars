@@ -1,0 +1,7 @@
+{{#each this}}
+${{@key}}-map: (
+{{#each this}}
+        {{@key}}: "{{{escape this}}}"{{#unless @last}},{{/unless}}
+{{/each}}
+)
+{{/each}}
