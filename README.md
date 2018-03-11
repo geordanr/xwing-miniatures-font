@@ -1,4 +1,4 @@
-X-Wing Miniatures Font
+X-Wing Miniatures Font [![Build Status](https://travis-ci.org/geordanr/xwing-miniatures-font.svg?branch=master)](https://travis-ci.org/geordanr/xwing-miniatures-font)
 ======================
 
 Vector font by [Hinny](https://github.com/Hinny), [armoredgear7](https://github.com/armoredgear7), [ScottKarch](https://github.com/ScottKarch), and [FedoraMark](https://github.com/FedoraMark).
@@ -43,6 +43,6 @@ Then find the TTFs and CSS in `node_modules/xwing-miniatures-font/dist`.
 
 ## Development
 
-    npm install
+    yarn          # or npm install
     npm run build
     npm test
