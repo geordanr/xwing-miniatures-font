@@ -45,3 +45,4 @@ Then find the TTFs and CSS in `node_modules/xwing-miniatures-font/dist`.
 
     npm install
     npm run build
+    npm test
