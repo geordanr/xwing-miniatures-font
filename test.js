@@ -31,6 +31,12 @@ exports['test ship glyphs'] = function(assert) {
     assertGlyphs('xwing-miniatures-ships', 'ships', assert);
 };
 
+const shipAliases = [
+    'ig2000',
+    'tieadvancedprototype',
+    'yt2400freighter',
+];
+
 exports['test ship names'] = function(assert, done) {
 
     // Get map of ship icons
@@ -65,7 +71,9 @@ exports['test ship names'] = function(assert, done) {
         // Check that all icon names have a ship in the database
         // assert.equal(shipMap.length, 0, "The following ships do not exist in the x-wing database: " + Object.keys(shipMap))
         for (var name in shipMap) {
-            assert.ok(false, "'" + name + "' is not in the x-wing ships database. Possible duplicate or typo?");
+            if (shipAliases.indexOf(name) === -1) {
+                assert.ok(false, "'" + name + "' is not in the x-wing ships database. Possible duplicate or typo?");
+            }
         }
         
         done();
