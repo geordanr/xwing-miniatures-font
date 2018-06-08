@@ -53,6 +53,9 @@ i.xwing-miniatures-font-boost:before {
 i.xwing-miniatures-font-bullseyearc:before {
   content: "}"; }
 
+i.xwing-miniatures-font-calculate:before {
+  content: "a"; }
+
 i.xwing-miniatures-font-cannon:before {
   content: "C"; }
 
