@@ -17,21 +17,6 @@ i.xwing-miniatures-font-agility:before {
 i.xwing-miniatures-font-astromech:before {
   content: "A"; }
 
-i.xwing-miniatures-font-attack-180:before {
-  content: ">"; }
-
-i.xwing-miniatures-font-attack-bullseye-top-separated:before {
-  content: "’"; }
-
-i.xwing-miniatures-font-attack-bullseye:before {
-  content: "?"; }
-
-i.xwing-miniatures-font-attack-frontback:before {
-  content: "<"; }
-
-i.xwing-miniatures-font-attack-turret:before {
-  content: "$"; }
-
 i.xwing-miniatures-font-attack:before {
   content: "%"; }
 
@@ -43,9 +28,6 @@ i.xwing-miniatures-font-bankright:before {
 
 i.xwing-miniatures-font-barrelroll:before {
   content: "r"; }
-
-i.xwing-miniatures-font-bomb:before {
-  content: "B"; }
 
 i.xwing-miniatures-font-boost:before {
   content: "b"; }
@@ -91,12 +73,12 @@ i.xwing-miniatures-font-dalan-bankleft:before {
 
 i.xwing-miniatures-font-dalan-bankright:before {
   content: "]"; }
+  
+i.xwing-miniatures-font-device:before {
+  content: "B"; }
 
 i.xwing-miniatures-font-doubleturretarc:before {
   content: "q"; }
-
-i.xwing-miniatures-font-elite:before {
-  content: "E"; }
 
 i.xwing-miniatures-font-empire:before {
   content: "@"; }
@@ -118,12 +100,18 @@ i.xwing-miniatures-font-focus:before {
 
 i.xwing-miniatures-font-forcecharge:before {
   content: "h"; }
+  
+i.xwing-miniatures-font-forcepower:before {
+  content: "F"; }
 
 i.xwing-miniatures-font-frontarc:before {
   content: "{"; }
 
-i.xwing-miniatures-font-fronthalf:before {
+i.xwing-miniatures-font-fullfrontarc:before {
   content: "~"; }
+
+i.xwing-miniatures-font-fullreararc:before {
+  content: "¡"; }
 
 i.xwing-miniatures-font-gunner:before {
   content: "Y"; }
@@ -160,6 +148,12 @@ i.xwing-miniatures-font-jam:before {
 
 i.xwing-miniatures-font-kturn:before {
   content: "2"; }
+
+i.xwing-miniatures-font-leftarc:before {
+  content: "£"; }
+
+i.xwing-miniatures-font-linked:before {
+  content: ">"; }
 
 i.xwing-miniatures-font-missile:before {
   content: "M"; }
@@ -275,14 +269,8 @@ i.xwing-miniatures-font-obstacle-yt2400debris2-outline:before {
 i.xwing-miniatures-font-obstacle-yt2400debris2:before {
   content: "Ģ"; }
 
-i.xwing-miniatures-font-overlay-180:before {
-  content: "."; }
-
-i.xwing-miniatures-font-overlay-frontback:before {
-  content: ","; }
-
-i.xwing-miniatures-font-overlay-turret:before {
-  content: "/"; }
+i.xwing-miniatures-font-rangebonusindicator:before {
+  content: "?"; }
 
 i.xwing-miniatures-font-reararc:before {
   content: "|"; }
@@ -295,6 +283,9 @@ i.xwing-miniatures-font-rebel:before {
 
 i.xwing-miniatures-font-recover:before {
   content: "v"; }
+
+i.xwing-miniatures-font-recurring:before {
+  content: "`"; }
 
 i.xwing-miniatures-font-reinforce:before {
   content: "i"; }
@@ -311,17 +302,20 @@ i.xwing-miniatures-font-reversebankright:before {
 i.xwing-miniatures-font-reversestraight:before {
   content: "K"; }
 
+i.xwing-miniatures-font-rightarc:before {
+  content: "¢"; }
+
 i.xwing-miniatures-font-rotatearc:before {
   content: "R"; }
-
-i.xwing-miniatures-font-salvagedastromech:before {
-  content: "V"; }
 
 i.xwing-miniatures-font-scum:before {
   content: "#"; }
 
 i.xwing-miniatures-font-shield:before {
   content: "*"; }
+
+i.xwing-miniatures-font-singleturretarc:before {
+  content: "p"; }
 
 i.xwing-miniatures-font-slam:before {
   content: "s"; }
@@ -344,6 +338,9 @@ i.xwing-miniatures-font-straight:before {
 i.xwing-miniatures-font-system:before {
   content: "S"; }
 
+i.xwing-miniatures-font-talent:before {
+  content: "E"; }
+
 i.xwing-miniatures-font-targetlock:before {
   content: "l"; }
 
@@ -362,23 +359,11 @@ i.xwing-miniatures-font-token-cannotattack-outline:before {
 i.xwing-miniatures-font-token-cannotattack:before {
   content: "Ö"; }
 
-i.xwing-miniatures-font-token-cloak-outline:before {
-  content: "ô"; }
-
-i.xwing-miniatures-font-token-cloak:before {
-  content: "å"; }
-
 i.xwing-miniatures-font-token-crit-outline:before {
   content: "è"; }
 
 i.xwing-miniatures-font-token-crit:before {
   content: "Ç"; }
-
-i.xwing-miniatures-font-token-energy-outline:before {
-  content: "î"; }
-
-i.xwing-miniatures-font-token-energy:before {
-  content: "á"; }
 
 i.xwing-miniatures-font-token-evade-outline:before {
   content: "é"; }
@@ -386,59 +371,11 @@ i.xwing-miniatures-font-token-evade-outline:before {
 i.xwing-miniatures-font-token-evade:before {
   content: "Å"; }
 
-i.xwing-miniatures-font-token-extramunitions-outline:before {
-  content: "ñ"; }
-
-i.xwing-miniatures-font-token-extramunitions:before {
-  content: "â"; }
-
 i.xwing-miniatures-font-token-focus-outline:before {
   content: "ç"; }
 
 i.xwing-miniatures-font-token-focus:before {
   content: "Ä"; }
-
-i.xwing-miniatures-font-token-illicit-outline:before {
-  content: "õ"; }
-
-i.xwing-miniatures-font-token-illicit:before {
-  content: "æ"; }
-
-i.xwing-miniatures-font-token-ion-outline:before {
-  content: "ó"; }
-
-i.xwing-miniatures-font-token-ion:before {
-  content: "ä"; }
-
-i.xwing-miniatures-font-token-reinforce-outline:before {
-  content: "ì"; }
-
-i.xwing-miniatures-font-token-reinforce:before {
-  content: "Ü"; }
-
-i.xwing-miniatures-font-token-shield-outline:before {
-  content: "ë"; }
-
-i.xwing-miniatures-font-token-shield:before {
-  content: "Ñ"; }
-
-i.xwing-miniatures-font-token-stress-outline:before {
-  content: "ê"; }
-
-i.xwing-miniatures-font-token-stress:before {
-  content: "É"; }
-
-i.xwing-miniatures-font-token-targetlock-outline:before {
-  content: "ò"; }
-
-i.xwing-miniatures-font-token-targetlock:before {
-  content: "ã"; }
-
-i.xwing-miniatures-font-token-tractorbeam-outline:before {
-  content: "ï"; }
-
-i.xwing-miniatures-font-token-tractorbeam:before {
-  content: "à"; }
 
 i.xwing-miniatures-font-torpedo:before {
   content: "P"; }
@@ -457,9 +394,6 @@ i.xwing-miniatures-font-turnright:before {
 
 i.xwing-miniatures-font-turret:before {
   content: "U"; }
-
-i.xwing-miniatures-font-turretarc:before {
-  content: "p"; }
 
 i.xwing-miniatures-font-unique-outline:before {
   content: "•"; }
