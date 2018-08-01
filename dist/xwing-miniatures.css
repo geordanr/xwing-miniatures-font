@@ -341,7 +341,7 @@ i.xwing-miniatures-font-system:before {
 i.xwing-miniatures-font-talent:before {
   content: "E"; }
 
-i.xwing-miniatures-font-targetlock:before {
+i.xwing-miniatures-font-lock:before {
   content: "l"; }
 
 i.xwing-miniatures-font-team:before {
@@ -353,11 +353,53 @@ i.xwing-miniatures-font-tech:before {
 i.xwing-miniatures-font-title:before {
   content: "t"; }
 
-i.xwing-miniatures-font-token-cannotattack-outline:before {
+i.xwing-miniatures-font-token-cloak-outline:before {
+  content: "ô"; }
+
+i.xwing-miniatures-font-token-cloak:before {
+  content: "å"; }
+
+i.xwing-miniatures-font-token-disarm-outline:before {
   content: "í"; }
 
-i.xwing-miniatures-font-token-cannotattack:before {
+i.xwing-miniatures-font-token-disarm:before {
   content: "Ö"; }
+
+i.xwing-miniatures-font-token-ion-outline:before {
+  content: "ó"; }
+
+i.xwing-miniatures-font-token-ion:before {
+  content: "ä"; }
+
+i.xwing-miniatures-font-token-reinforce-outline:before {
+  content: "ì"; }
+
+i.xwing-miniatures-font-token-reinforce:before {
+  content: "Ü"; }
+
+i.xwing-miniatures-font-token-shield-outline:before {
+  content: "ë"; }
+
+i.xwing-miniatures-font-token-shield:before {
+  content: "Ñ"; }
+
+i.xwing-miniatures-font-token-stress-outline:before {
+  content: "ê"; }
+
+i.xwing-miniatures-font-token-stress:before {
+  content: "É"; }
+
+i.xwing-miniatures-font-token-lock-outline:before {
+  content: "ò"; }
+
+i.xwing-miniatures-font-token-lock:before {
+  content: "ã"; }
+
+i.xwing-miniatures-font-token-tractor-outline:before {
+  content: "ï"; }
+
+i.xwing-miniatures-font-token-tractor:before {
+  content: "à"; }
 
 i.xwing-miniatures-font-token-crit-outline:before {
   content: "è"; }
