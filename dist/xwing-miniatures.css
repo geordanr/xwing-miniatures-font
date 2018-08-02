@@ -353,6 +353,18 @@ i.xwing-miniatures-font-tech:before {
 i.xwing-miniatures-font-title:before {
   content: "t"; }
 
+i.xwing-miniatures-font-token-calculate-outline:before {
+  content: "Ë"; }
+
+i.xwing-miniatures-font-token-calculate:before {
+  content: "Ê"; }
+
+i.xwing-miniatures-font-token-charge-outline:before {
+  content: "Ó"; }
+
+i.xwing-miniatures-font-token-charge:before {
+  content: "Ò"; }
+
 i.xwing-miniatures-font-token-crit-outline:before {
   content: "è"; }
 
@@ -377,6 +389,12 @@ i.xwing-miniatures-font-token-focus-outline:before {
 i.xwing-miniatures-font-token-focus:before {
   content: "Ä"; }
 
+i.xwing-miniatures-font-token-force-outline:before {
+  content: "Õ"; }
+
+i.xwing-miniatures-font-token-force:before {
+  content: "Ô"; }
+
 i.xwing-miniatures-font-token-disarm-outline:before {
   content: "í"; }
 
@@ -389,6 +407,12 @@ i.xwing-miniatures-font-token-ion-outline:before {
 i.xwing-miniatures-font-token-ion:before {
   content: "ä"; }
 
+i.xwing-miniatures-font-token-jam-outline:before {
+  content: "ð"; }
+
+i.xwing-miniatures-font-token-jam:before {
+  content: "á"; }
+
 i.xwing-miniatures-font-token-lock-outline:before {
   content: "ò"; }
 
@@ -399,6 +423,12 @@ i.xwing-miniatures-font-token-reinforce-outline:before {
   content: "ì"; }
 
 i.xwing-miniatures-font-token-reinforce:before {
+  content: "Ý"; }
+
+i.xwing-miniatures-font-token-reinforceaft-outline:before {
+  content: "î"; }
+
+i.xwing-miniatures-font-token-reinforceaft:before {
   content: "Ü"; }
 
 i.xwing-miniatures-font-token-shield-outline:before {
