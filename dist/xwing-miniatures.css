@@ -314,6 +314,9 @@ i.xwing-miniatures-font-rotatearc:before {
 i.xwing-miniatures-font-scum:before {
   content: "#"; }
 
+i.xwing-miniatures-font-sensor:before {
+  content: "S"; }
+
 i.xwing-miniatures-font-shield:before {
   content: "*"; }
 
@@ -337,9 +340,6 @@ i.xwing-miniatures-font-stop:before {
 
 i.xwing-miniatures-font-straight:before {
   content: "8"; }
-
-i.xwing-miniatures-font-system:before {
-  content: "S"; }
 
 i.xwing-miniatures-font-talent:before {
   content: "E"; }
@@ -423,13 +423,13 @@ i.xwing-miniatures-font-token-reinforce-outline:before {
   content: "ì"; }
 
 i.xwing-miniatures-font-token-reinforce:before {
-  content: "Ý"; }
+  content: "Ü"; }
 
 i.xwing-miniatures-font-token-reinforceaft-outline:before {
   content: "î"; }
 
 i.xwing-miniatures-font-token-reinforceaft:before {
-  content: "Ü"; }
+  content: "Ý"; }
 
 i.xwing-miniatures-font-token-shield-outline:before {
   content: "ë"; }
