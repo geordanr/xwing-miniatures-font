@@ -29,6 +29,18 @@ i.xwing-miniatures-font-bankright:before {
 i.xwing-miniatures-font-barrelroll:before {
   content: "r"; }
 
+i.xwing-miniatures-font-base-all:before {
+  content: "À"; }
+
+i.xwing-miniatures-font-base-small:before {
+  content: "Á"; }
+
+i.xwing-miniatures-font-base-medium:before {
+  content: "Â"; }
+
+i.xwing-miniatures-font-base-large:before {
+  content: "Ã"; }
+
 i.xwing-miniatures-font-boost:before {
   content: "b"; }
 
