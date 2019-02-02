@@ -1,9 +1,13 @@
 <tr>
     <th colspan="2">{{title}}</th>
+    <th style="padding: 5px">Character</th>
+    <th>Codepoint</th>
 </tr>
 {{#each map}}
 <tr>
     <td>xwing-miniatures-{{../name}}-{{@key}}</td>
     <td><i class="xwing-miniatures-{{../name}} xwing-miniatures-{{../name}}-{{@key}}"></i></td>
+    <td style="text-align: center; padding: 10px">{{this}}</td>
+    <td style="text-align: center"><code>{{{escape this}}}</code></td>
 </tr>
 {{/each}}
