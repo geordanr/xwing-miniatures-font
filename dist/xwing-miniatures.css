@@ -359,6 +359,9 @@ i.xwing-miniatures-font-stop:before {
 i.xwing-miniatures-font-straight:before {
   content: "8"; }
 
+i.xwing-miniatures-font-tacticalrelay:before {
+  content: "Z"; }
+
 i.xwing-miniatures-font-talent:before {
   content: "E"; }
 
