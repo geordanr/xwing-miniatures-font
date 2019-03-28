@@ -524,6 +524,9 @@ i.xwing-miniatures-ship-attackshuttle:before {
 i.xwing-miniatures-ship-auzituckgunship:before {
   content: "@"; }
 
+i.xwing-miniatures-ship-belbullab22starfighter:before {
+  content: "["; }
+
 i.xwing-miniatures-ship-btla4ywing:before {
   content: "y"; }
 
@@ -538,6 +541,9 @@ i.xwing-miniatures-ship-croccruiser:before {
 
 i.xwing-miniatures-ship-customizedyt1300lightfreighter:before {
   content: "W"; }
+
+i.xwing-miniatures-ship-delta7aethersprite:before {
+  content: "\\"; }
 
 i.xwing-miniatures-ship-escapecraft:before {
   content: "X"; }
@@ -611,6 +617,9 @@ i.xwing-miniatures-ship-scavengedyt1300:before {
 i.xwing-miniatures-ship-sheathipedeclassshuttle:before {
   content: "%"; }
 
+i.xwing-miniatures-ship-sithinfiltrator:before {
+  content: "]"; }
+
 i.xwing-miniatures-ship-starviperclassattackplatform:before {
   content: "v"; }
 
@@ -668,11 +677,17 @@ i.xwing-miniatures-ship-upsilonclasscommandshuttle:before {
 i.xwing-miniatures-ship-ut60duwing:before {
   content: "u"; }
 
+i.xwing-miniatures-ship-v19torrentstarfighter:before {
+  content: "^"; }
+
 i.xwing-miniatures-ship-vcx100lightfreighter:before {
   content: "G"; }
 
 i.xwing-miniatures-ship-vt49decimator:before {
   content: "d"; }
+
+i.xwing-miniatures-ship-vultureclassdroidfighter:before {
+  content: "_"; }
 
 i.xwing-miniatures-ship-yt2400lightfreighter:before {
   content: "o"; }
