@@ -1,9 +1,15 @@
 X-Wing Miniatures Font [![Build Status](https://travis-ci.org/geordanr/xwing-miniatures-font.svg?branch=master)](https://travis-ci.org/geordanr/xwing-miniatures-font)
 ======================
 
-Vector font by [Hinny](https://github.com/Hinny), [armoredgear7](https://github.com/armoredgear7), [ScottKarch](https://github.com/ScottKarch), and [FedoraMark](https://github.com/FedoraMark).
-
 [List of symbols](https://geordanr.github.io/xwing-miniatures-font/)
+
+Vector font by:
+
+- [Hinny](https://github.com/Hinny)
+- [armoredgear7](https://github.com/armoredgear7)
+- [ScottKarch](https://github.com/ScottKarch)
+- [FedoraMark](https://github.com/FedoraMark).
+- [lyerelian](https://github.com/lyerelian)
 
 ## Usage
 

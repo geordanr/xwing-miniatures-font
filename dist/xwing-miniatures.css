@@ -602,6 +602,12 @@ i.xwing-miniatures-ship-quadrijettransferspacetug:before {
 i.xwing-miniatures-ship-raiderclasscorvette:before {
   content: "3"; }
 
+i.xwing-miniatures-ship-resistancetransport:before {
+  content: "{"; }
+
+i.xwing-miniatures-ship-resistancetransportpod:before {
+  content: "}"; }
+
 i.xwing-miniatures-ship-rz1awing:before {
   content: "a"; }
 
