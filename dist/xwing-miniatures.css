@@ -569,6 +569,9 @@ i.xwing-miniatures-ship-gr75mediumtransport:before {
 i.xwing-miniatures-ship-hwk290lightfreighter:before {
   content: "h"; }
 
+i.xwing-miniatures-ship-hyenaclassdroidbomber:before {
+  content: "<"; }
+
 i.xwing-miniatures-ship-jumpmaster5000:before {
   content: "p"; }
 
@@ -596,6 +599,9 @@ i.xwing-miniatures-ship-modifiedtielnfighter:before {
 i.xwing-miniatures-ship-modifiedyt1300lightfreighter:before {
   content: "m"; }
 
+i.xwing-miniatures-ship-nabooroyaln1starfighter:before {
+  content: "="; }
+
 i.xwing-miniatures-ship-quadrijettransferspacetug:before {
   content: "q"; }
 
@@ -603,10 +609,10 @@ i.xwing-miniatures-ship-raiderclasscorvette:before {
   content: "3"; }
 
 i.xwing-miniatures-ship-resistancetransport:before {
-  content: "{"; }
+  content: ">"; }
 
 i.xwing-miniatures-ship-resistancetransportpod:before {
-  content: "}"; }
+  content: "?"; }
 
 i.xwing-miniatures-ship-rz1awing:before {
   content: "a"; }
