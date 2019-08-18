@@ -570,7 +570,7 @@ i.xwing-miniatures-ship-hwk290lightfreighter:before {
   content: "h"; }
 
 i.xwing-miniatures-ship-hyenaclassdroidbomber:before {
-  content: "<"; }
+  content: "="; }
 
 i.xwing-miniatures-ship-jumpmaster5000:before {
   content: "p"; }
@@ -600,7 +600,7 @@ i.xwing-miniatures-ship-modifiedyt1300lightfreighter:before {
   content: "m"; }
 
 i.xwing-miniatures-ship-nabooroyaln1starfighter:before {
-  content: "="; }
+  content: "<"; }
 
 i.xwing-miniatures-ship-quadrijettransferspacetug:before {
   content: "q"; }
