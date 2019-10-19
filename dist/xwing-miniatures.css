@@ -530,6 +530,9 @@ i.xwing-miniatures-ship-belbullab22starfighter:before {
 i.xwing-miniatures-ship-btla4ywing:before {
   content: "y"; }
 
+i.xwing-miniatures-ship-btlbywing:before {
+  content: ":"; }
+
 i.xwing-miniatures-ship-btls8kwing:before {
   content: "k"; }
 
@@ -601,6 +604,9 @@ i.xwing-miniatures-ship-modifiedyt1300lightfreighter:before {
 
 i.xwing-miniatures-ship-nabooroyaln1starfighter:before {
   content: "<"; }
+
+i.xwing-miniatures-ship-nantexclassstarfighter:before {
+  content: ";"; }
 
 i.xwing-miniatures-ship-quadrijettransferspacetug:before {
   content: "q"; }
