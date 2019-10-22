@@ -89,6 +89,9 @@ i.xwing-miniatures-font-dalan-bankright:before {
 i.xwing-miniatures-font-device:before {
   content: "B"; }
 
+i.xwing-miniatures-font-doublerecurring:before {
+  content: "_"; }
+
 i.xwing-miniatures-font-doubleturretarc:before {
   content: "q"; }
 
@@ -124,6 +127,9 @@ i.xwing-miniatures-font-fullfrontarc:before {
 
 i.xwing-miniatures-font-fullreararc:before {
   content: "¡"; }
+
+i.xwing-miniatures-font-fuse:before {
+  content: ","; }
 
 i.xwing-miniatures-font-gunner:before {
   content: "Y"; }
@@ -283,6 +289,24 @@ i.xwing-miniatures-font-obstacle-yt2400debris2-outline:before {
 
 i.xwing-miniatures-font-obstacle-yt2400debris2:before {
   content: "Ģ"; }
+
+i.xwing-miniatures-font-obstacle-gascloud1:before {
+  content: "Į"; }
+
+i.xwing-miniatures-font-obstacle-gascloud1-outline:before {
+  content: "Ē"; }
+
+i.xwing-miniatures-font-obstacle-gascloud2:before {
+  content: "į"; }
+
+i.xwing-miniatures-font-obstacle-gascloud2-outline:before {
+  content: "ē"; }
+
+i.xwing-miniatures-font-obstacle-gascloud3:before {
+  content: "İ"; }
+
+i.xwing-miniatures-font-obstacle-gascloud3-outline:before {
+  content: "Ĕ"; }
 
 i.xwing-miniatures-font-rangebonusindicator:before {
   content: "?"; }
