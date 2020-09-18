@@ -793,3 +793,19 @@ i.xwing-miniatures-ship-yv666lightfreighter:before {
 
 i.xwing-miniatures-ship-z95af4headhunter:before {
   content: "z"; }
+  
+i.xwing-miniatures-ship-fireball:before {
+  content: "0"; }
+i.xwing-miniatures-ship-tiebainterceptor:before {
+  content: "j"; }
+  
+i.xwing-miniatures-ship-xiclasslightshuttle:before {
+  content: "Q"; }
+i.xwing-miniatures-ship-laatigunship:before {
+  content: "/"; }
+i.xwing-miniatures-ship-hmpdroidgunship:before {
+  content: "."; }
+i.xwing-miniatures-ship-tierbheavy:before {
+  content: "J"; }
+  
+  
