@@ -209,6 +209,9 @@ i.xwing-miniatures-font-missile:before {
 i.xwing-miniatures-font-modification:before {
   content: "m"; }
 
+i.xwing-miniatures-font-negativerecurring:before {
+  content: ""; }
+
 i.xwing-miniatures-font-obstacle-core2asteroid0-outline:before {
   content: "ĉ"; }
 
@@ -551,6 +554,9 @@ i.xwing-miniatures-font-token-tractor:before {
 i.xwing-miniatures-font-torpedo:before {
   content: "P"; }
 
+i.xwing-miniatures-font-triplerecurring:before {
+  content: ""; }
+
 i.xwing-miniatures-font-trollleft:before {
   content: ":"; }
 
@@ -623,11 +629,17 @@ i.xwing-miniatures-ship-croccruiser:before {
 i.xwing-miniatures-ship-customizedyt1300lightfreighter:before {
   content: "W"; }
 
+i.xwing-miniatures-ship-droidtrifighter:before {
+  content: "+"; }
+
 i.xwing-miniatures-ship-delta7aethersprite:before {
   content: "\\"; }
 
 i.xwing-miniatures-ship-escapecraft:before {
   content: "X"; }
+
+i.xwing-miniatures-ship-eta2actis:before {
+  content: "-"; }
 
 i.xwing-miniatures-ship-ewing:before {
   content: "e"; }
@@ -695,6 +707,9 @@ i.xwing-miniatures-ship-nabooroyaln1starfighter:before {
 i.xwing-miniatures-ship-nantexclassstarfighter:before {
   content: ";"; }
 
+i.xwing-miniatures-ship-nimbusclassvwing:before {
+  content: ","; }
+
 i.xwing-miniatures-ship-quadrijettransferspacetug:before {
   content: "q"; }
 
@@ -727,6 +742,9 @@ i.xwing-miniatures-ship-sithinfiltrator:before {
 
 i.xwing-miniatures-ship-starviperclassattackplatform:before {
   content: "v"; }
+
+i.xwing-miniatures-ship-syliureclasshyperspacering:before {
+  content: "*"; }
 
 i.xwing-miniatures-ship-t65xwing:before {
   content: "x"; }
