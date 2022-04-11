@@ -36,6 +36,9 @@ module.exports = (grunt) ->
             partials: 'handlebars/templates/index-icon-set.handlebars'
         
     sass:
+      options: {
+        implementation: require('node-sass')
+      }
       compile:
         expand: true
         cwd: 'src/sass/'
